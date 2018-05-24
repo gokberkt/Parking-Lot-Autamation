@@ -1,0 +1,14 @@
+C:\Users\Gokberk\source\repos\OtoparkOtomasyonu_gokberk\OtoparkOtomasyonu_gokberk\bin\Debug\OtoparkOtomasyonu_gokberk.exe.config
+C:\Users\Gokberk\source\repos\OtoparkOtomasyonu_gokberk\OtoparkOtomasyonu_gokberk\bin\Debug\OtoparkOtomasyonu_gokberk.exe
+C:\Users\Gokberk\source\repos\OtoparkOtomasyonu_gokberk\OtoparkOtomasyonu_gokberk\bin\Debug\OtoparkOtomasyonu_gokberk.pdb
+C:\Users\Gokberk\source\repos\OtoparkOtomasyonu_gokberk\OtoparkOtomasyonu_gokberk\obj\Debug\OtoparkOtomasyonu_gokberk.csprojResolveAssemblyReference.cache
+C:\Users\Gokberk\source\repos\OtoparkOtomasyonu_gokberk\OtoparkOtomasyonu_gokberk\obj\Debug\OtoparkOtomasyonu_gokberk.Form1.resources
+C:\Users\Gokberk\source\repos\OtoparkOtomasyonu_gokberk\OtoparkOtomasyonu_gokberk\obj\Debug\OtoparkOtomasyonu_gokberk.Properties.Resources.resources
+C:\Users\Gokberk\source\repos\OtoparkOtomasyonu_gokberk\OtoparkOtomasyonu_gokberk\obj\Debug\OtoparkOtomasyonu_gokberk.csproj.GenerateResource.Cache
+C:\Users\Gokberk\source\repos\OtoparkOtomasyonu_gokberk\OtoparkOtomasyonu_gokberk\obj\Debug\OtoparkOtomasyonu_gokberk.csproj.CoreCompileInputs.cache
+C:\Users\Gokberk\source\repos\OtoparkOtomasyonu_gokberk\OtoparkOtomasyonu_gokberk\obj\Debug\OtoparkOtomasyonu_gokberk.exe
+C:\Users\Gokberk\source\repos\OtoparkOtomasyonu_gokberk\OtoparkOtomasyonu_gokberk\obj\Debug\OtoparkOtomasyonu_gokberk.pdb
+C:\Users\Gokberk\source\repos\OtoparkOtomasyonu_gokberk\OtoparkOtomasyonu_gokberk\bin\Debug\EntityFramework.dll
+C:\Users\Gokberk\source\repos\OtoparkOtomasyonu_gokberk\OtoparkOtomasyonu_gokberk\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gokberk\source\repos\OtoparkOtomasyonu_gokberk\OtoparkOtomasyonu_gokberk\bin\Debug\EntityFramework.xml
+C:\Users\Gokberk\source\repos\OtoparkOtomasyonu_gokberk\OtoparkOtomasyonu_gokberk\bin\Debug\EntityFramework.SqlServer.xml
